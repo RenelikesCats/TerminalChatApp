@@ -32,6 +32,4 @@ public class Client {
             out.println(clientMessage);
         }
     }
-
-
 }
